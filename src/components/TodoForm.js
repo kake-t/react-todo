@@ -31,7 +31,6 @@ const TodoForm = () => {
       },
     ]);
     setTodoValue('');
-    console.log(todoList);
   };
 
   return (
